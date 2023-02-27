@@ -6,3 +6,7 @@ driver.findElement.name
 driver.findElement.TagName
 driver.findElement.LinkTest
 driver.findElement.PartialLinkTest
+
+
+driver.manage().windows().maximize();
+driver.manage().timeouts().ImplicitiWait(Duration.of Seconds);
