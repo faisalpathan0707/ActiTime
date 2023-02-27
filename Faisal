@@ -1,0 +1,8 @@
+driver.findElement.id
+driver.findElement.class
+driver.findElement.name
+driver.findElement.TagName
+driver.findElement.LinkTest
+driver.findElement.PartialLinkTest
+driver.findElement.css
+driver.findElement.
